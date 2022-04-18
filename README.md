@@ -17,9 +17,9 @@ The dataset should be placed in assets, and all cells should be easy enough to r
 #### Sharing results
 
 If you downloaded the dataset, then taking a look into the model should look something like this. 
-![Screenshot](./assets/readme_info/Screenshot from 2022-04-18 18-17-46.png?raw=true)
+![Screenshot](/assets/readme_info/samples.png)
 
 
 Given the fixed random seed, if you choose to retrain the model or use the model uploaded to Kaggle, you should see 95%+ accuracy.
  
-![Screenshot](./assets/readme_info/Screenshot from 2022-04-18 18-18-22.png)
+![Screenshot](./assets/readme_info/acc.png)
