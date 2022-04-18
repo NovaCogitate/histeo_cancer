@@ -11,4 +11,4 @@ The code was compleately written in pytorch and is honestly nothing special.
 #### dataset location
 The dataset should be placed in assets and all cells should be easy enoght to re-run. To download the dataset please use the kaggle api and run:
 
-'kaggle competitions download -c histopathologic-cancer-detection'
+```kaggle competitions download -c histopathologic-cancer-detection```
